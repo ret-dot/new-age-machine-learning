@@ -1,3 +1,7 @@
+IMPORTANT NOTE :
+put the summarize_jsonl.py, video_analyzer.py, readme and requirements.txt in main directory and the other files in a folder named video_analyzer
+
+
 """
 Final 24 FPS Optimized Pipeline
 --------------------------------
@@ -32,5 +36,6 @@ Dependencies (install only what you need):
     pip install torch torchvision pillow
     # For SlowFast (or use your wrapper):
     pip install torch torchvision decord
+
 
 """
